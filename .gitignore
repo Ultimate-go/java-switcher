@@ -1,0 +1,16 @@
+# 程序运行生成的错误日志
+JavaSwitcher.error.log
+
+# Windows 系统杂项
+Thumbs.db
+Desktop.ini
+
+# VS / 编辑器杂项
+*.user
+*.suo
+.vs/
+
+# 临时截图 / 演练文件
+_preview.png
+_scratch/
+_scratch2/
